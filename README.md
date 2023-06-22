@@ -1,6 +1,5 @@
 # My Kitchen Staples
-1. Bread
-2. Coockie
+
 
 ## How to make home made bread
 
