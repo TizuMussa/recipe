@@ -8,4 +8,4 @@
 2. Preparation
 3. Serving
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![recipe](recipe.jpg)
